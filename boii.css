@@ -1296,24 +1296,24 @@ A.close-menu,
 /* Chat icons & Chat on hover */
 /* Based on @matt's dubtrack.css at https://github.com/nightbloo/nightbloo.github.io/blob/master/dubtrack */
 /* Based on @sinful's assets.css at https://github.com/sinfulBA/DubX-Script/blob/master/asset.css */
-#chat .chat-main .isResident-dj .username:before, #chat .chat-main .isVip a.username:before, #chat .chat-main .isMod a.username:before, #chat .chat-main .isManager a.username:before, #chat .chat-main .isCo-owner a.username:before
+.isResident-dj .username:before, #chat .chat-main .isVip a.username:before, #chat .chat-main .isMod a.username:before, #chat .chat-main .isManager a.username:before, #chat .chat-main .isCo-owner a.username:before
 { font-size: .7em; margin-right: 3px; text-align: center; border-radius: 5%; padding: 0px 4px; box-shadow: 0 0 5px #333333; color: white; }
 
-#chat .chat-main .isResident-dj .username:before { content: url("https://my.mixtape.moe/mestjs.png");}
-#chat .chat-main .isResident-dj .username:hover:before { content: "[RES-DJ] "; }
+.isResident-dj .username:before { content: url("https://my.mixtape.moe/mestjs.png");}
+.isResident-dj .username:hover:before { content: "[RES-DJ] "; }
 
-#chat .chat-main .isVip .username:before { content: url("https://my.mixtape.moe/ljbeyb.png");}
-#chat .chat-main .isVip .username:hover:before { content: "[VIP] "; }
+ .isVip .username:before { content: url("https://my.mixtape.moe/ljbeyb.png");}
+.isVip .username:hover:before { content: "[VIP] "; }
 
-#chat .chat-main .isMod .username:before { content: url("https://my.mixtape.moe/vmumng.png");}
-#chat .chat-main .isMod .username:hover:before { content: "[MOD] "; }
+.isMod .username:before { content: url("https://my.mixtape.moe/vmumng.png");}
+.isMod .username:hover:before { content: "[MOD] "; }
 
-#chat .chat-main .isManager .username:before { content: url("https://my.mixtape.moe/leziap.png");}
-#chat .chat-main .isManager .username:hover:before { content: "[MANAGER] "; }
+.isManager .username:before { content: url("https://my.mixtape.moe/leziap.png");}
+.isManager .username:hover:before { content: "[MANAGER] "; }
 
-#chat .chat-main .isCo-owner .username:before { content: url("https://my.mixtape.moe/pmgwjt.png");}
-#chat .chat-main .isCo-owner .username:hover:before { content: "[Co-OWNER] "; }
+.isCo-owner .username:before { content: url("https://my.mixtape.moe/pmgwjt.png");}
+.isCo-owner .username:hover:before { content: "[Co-OWNER] "; }
 
-#chat .chat-main .creator .username:before {content: url('https://my.mixtape.moe/pmgwjt.png') !important;}
-#chat .chat-main .creator .username:hover:before { content: "[OWNER] " !important;} 
+.creator .username:before {content: url('https://my.mixtape.moe/pmgwjt.png') !important;}
+.creator .username:hover:before { content: "[OWNER] " !important;} 
 /**/ /* === "User-specific colours" ends here === */
