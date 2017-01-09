@@ -1311,7 +1311,7 @@ A.close-menu,
 .isManager .username:before { content: url("https://my.mixtape.moe/leziap.png");}
 .isManager .username:hover:before { content: "[MANAGER] "; }
 
-.isCo-owner .username:before { content: url("https://my.mixtape.moe/pmgwjt.png");}
+.isCo-owner .username:before { content: url("https://my.mixtape.moe/ewpkys.png");}
 .isCo-owner .username:hover:before { content: "[Co-OWNER] "; }
 
 .creator .username:before {content: url('https://my.mixtape.moe/pmgwjt.png') !important;}
