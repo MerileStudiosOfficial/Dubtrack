@@ -1302,10 +1302,10 @@ A.close-menu,
 #chat .chat-main .isResident-dj .username:before { content: url("https://my.mixtape.moe/mestjs.png");}
 #chat .chat-main .isResident-dj .username:hover:before { content: "[RES-DJ] "; }
 
-#chat .chat-main .isVip .username:before { content: url("https://my.mixtape.moe/vmumng.png");}
+#chat .chat-main .isVip .username:before { content: url("https://my.mixtape.moe/ljbeyb.png");}
 #chat .chat-main .isVip .username:hover:before { content: "[VIP] "; }
 
-#chat .chat-main .isMod .username:before { content: url("https://my.mixtape.moe/leziap.png");}
+#chat .chat-main .isMod .username:before { content: url("https://my.mixtape.moe/vmumng.png");}
 #chat .chat-main .isMod .username:hover:before { content: "[MOD] "; }
 
 #chat .chat-main .isManager .username:before { content: url("https://my.mixtape.moe/leziap.png");}
