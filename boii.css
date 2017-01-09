@@ -1314,6 +1314,6 @@ A.close-menu,
 #chat .chat-main .isCo-owner a.username:before { content: "https://my.mixtape.moe/pmgwjt.png"; background: #FF0000;}
 #chat .chat-main .isCo-owner a.username:hover:before { content: "Co-OWNER"; }
 
-#chat .user-56440735362ecb5600ea145b .creator .current-chat-user .isCo-owner .chat-id-56440735362ecb5600ea145b-1483920209525:before { content: "https://my.mixtape.moe/pmgwjt.png"; background: #FF0000;}
-#chat .user-56440735362ecb5600ea145b .creator .current-chat-user .isCo-owner .chat-id-56440735362ecb5600ea145b-1483920209525:hover:before { content: "OWNER";}
+ #chat .chat-container .chat-messages .chat-main li.creator a.username:before { content: "https://my.mixtape.moe/pmgwjt.png"; background: #FF0000;}
+ #chat .chat-container .chat-messages .chat-main li.creator a.username:hover:before { content: "OWNER";}
 /**/ /* === "User-specific colours" ends here === */
